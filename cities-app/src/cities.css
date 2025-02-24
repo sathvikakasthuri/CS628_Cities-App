@@ -1,0 +1,201 @@
+body {
+
+    font-family: Arial, sans-serif;
+  
+    margin: 0;
+  
+    padding: 0;
+  
+    background: #f4f4f4;
+  
+  }
+  .container {
+  
+    max-width: 800px;
+  
+    margin: 20px auto;
+  
+    background: white;
+  
+    padding: 20px;
+  
+    border-radius: 8px;
+  
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  
+  }
+  
+  h1 {
+  
+    text-align: center;
+  
+    background: #242323;
+  
+    color: white;
+  
+    padding: 20px;
+  
+    margin: 0;
+  
+    font-size: 24px;
+  
+  }
+  
+  nav {
+  
+    display: flex;
+  
+    justify-content: center;
+  
+    background: #242323;
+  
+    padding: 10px;
+  
+  }
+   
+  nav a {
+  
+    color: white;
+  
+    text-decoration: none;
+  
+    font-weight: bold;
+  
+    margin: 0 15px;
+  
+    font-size: 18px;
+  
+  }
+
+  .city-list {
+  
+    background: white;
+  
+    padding: 20px;
+  
+    border-radius: 8px;
+  
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  
+  }
+   
+  .city-list h2 {
+  
+    font-size: 22px;
+  
+    margin-bottom: 10px;
+  
+  }
+   
+  .city-list ul {
+  
+    list-style: none;
+  
+    padding: 0;
+  
+  }
+   
+  .city-list li {
+  
+    margin: 10px 0;
+  
+  }
+   
+  .city-list a {
+  
+    text-decoration: none;
+  
+    color: purple;
+  
+    font-weight: bold;
+  
+    font-size: 18px;
+  
+  }
+  
+  .city-details {
+  
+    background: white;
+  
+    padding: 20px;
+  
+    border-radius: 8px;
+  
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  
+    margin-top: 20px;
+  
+  }
+   
+  .city-details h2 {
+  
+    font-size: 22px;
+  
+    margin-bottom: 10px;
+  
+  }
+   
+  .city-details p {
+  
+    font-size: 18px;
+  
+    margin: 5px 0;
+  
+  }
+  
+  .form-container {
+  
+    background: white;
+  
+    padding: 20px;
+  
+    border-radius: 8px;
+  
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  
+    margin-top: 20px;
+  
+  }
+   
+  .form-container h2 {
+  
+    font-size: 22px;
+  
+    margin-bottom: 15px;
+  
+  }
+   
+  .form-container input {
+  
+    width: 100%;
+  
+    padding: 10px;
+  
+    margin: 10px 0;
+  
+    border: 1px solid #ccc;
+  
+    border-radius: 5px;
+  
+  }
+   
+  button {
+  
+    background: #007BFF;
+  
+    color: white;
+  
+    border: none;
+  
+    padding: 10px 20px;
+  
+    cursor: pointer;
+  
+    border-radius: 5px;
+  
+    font-size: 16px;
+  
+  }
+   
+  
+   
